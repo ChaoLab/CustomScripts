@@ -28,7 +28,7 @@ my $max_target_seq_num = 15; # The max target sequence number for diamond blastp
 my $threads = 10; # The number of cpus you use to run diamond
 my $subject_cover = 50; # The minimum subject cover% to report an alignment
 
-my ($input_name) = $input =~ /^(.+?)\.faa/;
+my ($input_name) = $input =~ /^.+\/(.+?)\.faa/;
 
 `diamond blastp --db $nr_database_folder/nr --query $input --outfmt 6 --max-target-seqs $max_target_seq_num --out tmp/$input_name.diamond_result.txt --threads $threads --subject-cover $subject_cover -b 16 -c 1`;
 
