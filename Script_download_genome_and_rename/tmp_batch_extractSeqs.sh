@@ -1,0 +1,16 @@
+perl /slowdata/scripts/scripts/SeqTools/extractSeqs.pl -f /slowdata/data1/Arc_Genome_20190209/faa_compatible/name_changed/All_protein_cat.protein -l rpL14.accno.list -o Arc_Genome_20190209_rpL14.fa
+perl /slowdata/scripts/scripts/SeqTools/extractSeqs.pl -f /slowdata/data1/Arc_Genome_20190209/faa_compatible/name_changed/All_protein_cat.protein -l rpL15.accno.list -o Arc_Genome_20190209_rpL15.fa
+perl /slowdata/scripts/scripts/SeqTools/extractSeqs.pl -f /slowdata/data1/Arc_Genome_20190209/faa_compatible/name_changed/All_protein_cat.protein -l rpL16.accno.list -o Arc_Genome_20190209_rpL16.fa
+perl /slowdata/scripts/scripts/SeqTools/extractSeqs.pl -f /slowdata/data1/Arc_Genome_20190209/faa_compatible/name_changed/All_protein_cat.protein -l rpL18.accno.list -o Arc_Genome_20190209_rpL18.fa
+perl /slowdata/scripts/scripts/SeqTools/extractSeqs.pl -f /slowdata/data1/Arc_Genome_20190209/faa_compatible/name_changed/All_protein_cat.protein -l rpL22.accno.list -o Arc_Genome_20190209_rpL22.fa
+perl /slowdata/scripts/scripts/SeqTools/extractSeqs.pl -f /slowdata/data1/Arc_Genome_20190209/faa_compatible/name_changed/All_protein_cat.protein -l rpL24.accno.list -o Arc_Genome_20190209_rpL24.fa
+perl /slowdata/scripts/scripts/SeqTools/extractSeqs.pl -f /slowdata/data1/Arc_Genome_20190209/faa_compatible/name_changed/All_protein_cat.protein -l rpL2.accno.list -o Arc_Genome_20190209_rpL2.fa
+perl /slowdata/scripts/scripts/SeqTools/extractSeqs.pl -f /slowdata/data1/Arc_Genome_20190209/faa_compatible/name_changed/All_protein_cat.protein -l rpL3.accno.list -o Arc_Genome_20190209_rpL3.fa
+perl /slowdata/scripts/scripts/SeqTools/extractSeqs.pl -f /slowdata/data1/Arc_Genome_20190209/faa_compatible/name_changed/All_protein_cat.protein -l rpL4.accno.list -o Arc_Genome_20190209_rpL4.fa
+perl /slowdata/scripts/scripts/SeqTools/extractSeqs.pl -f /slowdata/data1/Arc_Genome_20190209/faa_compatible/name_changed/All_protein_cat.protein -l rpL5.accno.list -o Arc_Genome_20190209_rpL5.fa
+perl /slowdata/scripts/scripts/SeqTools/extractSeqs.pl -f /slowdata/data1/Arc_Genome_20190209/faa_compatible/name_changed/All_protein_cat.protein -l rpL6.accno.list -o Arc_Genome_20190209_rpL6.fa
+perl /slowdata/scripts/scripts/SeqTools/extractSeqs.pl -f /slowdata/data1/Arc_Genome_20190209/faa_compatible/name_changed/All_protein_cat.protein -l rpS10.accno.list -o Arc_Genome_20190209_rpS10.fa
+perl /slowdata/scripts/scripts/SeqTools/extractSeqs.pl -f /slowdata/data1/Arc_Genome_20190209/faa_compatible/name_changed/All_protein_cat.protein -l rpS17.accno.list -o Arc_Genome_20190209_rpS17.fa
+perl /slowdata/scripts/scripts/SeqTools/extractSeqs.pl -f /slowdata/data1/Arc_Genome_20190209/faa_compatible/name_changed/All_protein_cat.protein -l rpS19.accno.list -o Arc_Genome_20190209_rpS19.fa
+perl /slowdata/scripts/scripts/SeqTools/extractSeqs.pl -f /slowdata/data1/Arc_Genome_20190209/faa_compatible/name_changed/All_protein_cat.protein -l rpS3.accno.list -o Arc_Genome_20190209_rpS3.fa
+perl /slowdata/scripts/scripts/SeqTools/extractSeqs.pl -f /slowdata/data1/Arc_Genome_20190209/faa_compatible/name_changed/All_protein_cat.protein -l rpS8.accno.list -o Arc_Genome_20190209_rpS8.fa
